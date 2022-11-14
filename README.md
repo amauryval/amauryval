@@ -6,7 +6,7 @@ My name is Amaury from France, near Lyon. I'm a Geographic Information System sp
 - ❤️ I enjoy playing with data, database (SQL 😍), Python and cartography (web). 
 - 🍀 I promote quality : testing is mandatory for me!
 - ⛱️ I'm taking a lot of fun to play with TypeScript and Angular.
-- 🤓 I'm currently learning C++.
+
 
 ### Some stats
 
