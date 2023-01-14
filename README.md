@@ -2,10 +2,9 @@
 
 My name is Amaury from France, near Lyon. I'm a Geographic Information System specialist and a developer.
 
-- 🔭 I'm currently working at Siemens on development and testing topics.
+- 🔭 I'm currently working at Siemens as software developer.
 - ❤️ I enjoy playing with data, database (SQL 😍), Python and cartography (web). 
-- 🍀 I promote quality : testing is mandatory for me!
-- ⛱️ I'm taking a lot of fun to play with TypeScript and Angular.
+- ⛱️ I'm taking a lot of fun to play with TypeScript with Angular and Golang.
 
 
 ### Some stats
